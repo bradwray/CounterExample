@@ -1,2 +1,0 @@
-# CounterExample
-Created with CodeSandbox
